@@ -8,4 +8,4 @@ Predictions of first month box office earnings
 
 ## Data source
 
-I scraped the data from [BoxOfficeMojo.com](boxofficemojo.com)
+I scraped data for ~23K movies from [BoxOfficeMojo.com](boxofficemojo.com)
